@@ -1,5 +1,7 @@
-deepin-screensaver (0.0.1-1) unstable; urgency=medium
+deepin-screensaver (5.0.8-1ubuntu1) impish; urgency=medium
 
-  * Initial release
 
- -- Deepin Packages Builder <packages@deepin.com>  Tue, 22 Aug 2017 09:30:02 +0800
+  * New upstream release fo impish.
+
+ -- Ananta Mishra <mishraananta2017@gmail.com>  Sat, 16 Oct 2021 10:10:40 +0545
+
